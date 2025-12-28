@@ -1,0 +1,367 @@
+2025-12-28 10:29:38,345 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:29:38,381 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:29:38,384 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:29:41,708 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:29:41,709 INFO  services.PetService - POST Create Pet
+2025-12-28 10:29:43,276 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:29:43,296 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:29:43,297 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:29:43,300 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:39:31,296 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:39:31,316 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:39:31,319 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:39:34,271 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:39:34,271 INFO  services.PetService - POST Create Pet
+2025-12-28 10:39:35,912 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:39:35,930 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:39:35,930 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:39:35,930 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:42:13,221 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:42:13,235 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:42:13,239 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:42:16,294 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:42:16,294 INFO  services.PetService - POST Create Pet
+2025-12-28 10:42:17,810 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:42:17,829 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:42:17,829 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:42:17,829 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:42:19,368 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 10:42:19,369 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 0
+2025-12-28 10:42:19,369 INFO  services.PetService - DELETE Pet id: 0
+2025-12-28 10:47:08,049 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:47:08,065 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:47:08,068 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:47:11,090 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:47:11,090 INFO  services.PetService - POST Create Pet
+2025-12-28 10:47:12,718 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:47:12,731 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:47:12,732 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:47:12,732 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:47:14,274 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 10:48:35,698 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:48:35,716 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:48:35,719 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:48:38,742 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:48:38,742 INFO  services.PetService - POST Create Pet
+2025-12-28 10:48:40,373 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:48:40,391 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:48:40,391 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:48:40,391 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:48:41,933 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 10:48:41,933 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 10:48:41,933 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 10:53:01,505 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:53:01,521 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:53:01,523 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:53:04,331 INFO  stepdefinition.APITestingSampleStep - Get Response:io.restassured.internal.RestAssuredResponseImpl@e0d1dc4
+2025-12-28 10:53:04,688 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:53:04,688 INFO  services.PetService - POST Create Pet
+2025-12-28 10:53:06,314 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:53:06,315 INFO  stepdefinition.APITestingSampleStep - Post response:io.restassured.internal.RestAssuredResponseImpl@36c783ca
+2025-12-28 10:53:06,335 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:53:06,336 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:53:06,336 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:53:07,844 INFO  stepdefinition.APITestingSampleStep - Put Response:io.restassured.internal.RestAssuredResponseImpl@1acc873b
+2025-12-28 10:53:07,866 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 10:53:07,866 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 10:53:07,866 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 10:53:09,390 INFO  stepdefinition.APITestingSampleStep - Delete response:io.restassured.internal.RestAssuredResponseImpl@603f4e3e
+2025-12-28 10:54:37,373 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:54:37,391 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:54:37,394 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:54:40,058 INFO  stepdefinition.APITestingSampleStep - Get Response:io.restassured.internal.RestAssuredResponseImpl@e0d1dc4
+2025-12-28 10:54:40,395 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:54:40,395 INFO  services.PetService - POST Create Pet
+2025-12-28 10:54:42,047 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:54:42,048 INFO  stepdefinition.APITestingSampleStep - Post response:io.restassured.internal.RestAssuredResponseImpl@36c783ca
+2025-12-28 10:54:42,063 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:54:42,063 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:54:42,063 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:54:43,584 INFO  stepdefinition.APITestingSampleStep - Put Response:io.restassured.internal.RestAssuredResponseImpl@1acc873b
+2025-12-28 10:54:43,600 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 10:54:43,600 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 10:54:43,600 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 10:54:45,118 INFO  stepdefinition.APITestingSampleStep - Delete response:{
+    "code": 200,
+    "type": "unknown",
+    "message": "60"
+}
+2025-12-28 10:56:07,797 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 10:56:07,814 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 10:56:07,817 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 10:56:10,461 INFO  stepdefinition.APITestingSampleStep - Get Response:{
+    "id": 5,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "string"
+}
+2025-12-28 10:56:10,820 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 10:56:10,820 INFO  services.PetService - POST Create Pet
+2025-12-28 10:56:12,468 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 10:56:12,472 INFO  stepdefinition.APITestingSampleStep - Post response:{
+    "id": 60,
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        
+    ],
+    "status": "available"
+}
+2025-12-28 10:56:12,491 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 10:56:12,492 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 0
+2025-12-28 10:56:12,492 INFO  services.PetService - PUT Update Pet
+2025-12-28 10:56:14,004 INFO  stepdefinition.APITestingSampleStep - Put Response:{
+    "id": 9223372036854775807,
+    "name": "peggy",
+    "tags": [
+        
+    ]
+}
+2025-12-28 10:56:14,026 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 10:56:14,026 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 10:56:14,026 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 10:56:15,538 INFO  stepdefinition.APITestingSampleStep - Delete response:{
+    "code": 200,
+    "type": "unknown",
+    "message": "60"
+}
+2025-12-28 11:04:38,163 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 11:04:38,182 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 11:04:38,184 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 11:04:40,832 INFO  stepdefinition.APITestingSampleStep - Get Response:{
+    "id": 5,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "string"
+}
+2025-12-28 11:04:41,278 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 11:04:41,278 INFO  services.PetService - POST Create Pet
+2025-12-28 11:04:42,931 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 11:04:42,934 INFO  stepdefinition.APITestingSampleStep - Post response:{
+    "id": 60,
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        
+    ],
+    "status": "available"
+}
+2025-12-28 11:04:42,948 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 11:04:42,948 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 60
+2025-12-28 11:04:42,948 INFO  services.PetService - PUT Update Pet
+2025-12-28 11:04:44,465 INFO  stepdefinition.APITestingSampleStep - Put Response:{
+    "id": 60,
+    "name": "peggy",
+    "tags": [
+        
+    ]
+}
+2025-12-28 11:04:44,488 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 11:04:44,488 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 11:04:44,489 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 11:04:46,001 INFO  stepdefinition.APITestingSampleStep - Delete response:{
+    "code": 200,
+    "type": "unknown",
+    "message": "60"
+}
+2025-12-28 11:10:42,982 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 11:10:42,999 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 11:10:43,002 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 11:10:45,790 INFO  stepdefinition.APITestingSampleStep - Get Response:{
+    "id": 5,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "string"
+}
+2025-12-28 11:10:46,160 INFO  util.AssertionUtil - Expected value:5 Actual value:5
+2025-12-28 11:10:46,168 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 11:10:46,168 INFO  services.PetService - POST Create Pet
+2025-12-28 11:10:47,780 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 11:10:47,783 INFO  stepdefinition.APITestingSampleStep - Post response:{
+    "id": 60,
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        
+    ],
+    "status": "available"
+}
+2025-12-28 11:10:47,791 INFO  util.AssertionUtil - Expected value:60 Actual value:60
+2025-12-28 11:10:47,797 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 11:10:47,798 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 60
+2025-12-28 11:10:47,798 INFO  services.PetService - PUT Update Pet
+2025-12-28 11:10:49,316 INFO  stepdefinition.APITestingSampleStep - Put Response:{
+    "id": 60,
+    "name": "peggy",
+    "tags": [
+        
+    ]
+}
+2025-12-28 11:10:49,334 INFO  util.AssertionUtil - Expected value:peggy Actual value:peggy
+2025-12-28 11:10:49,339 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 11:10:49,340 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 11:10:49,340 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 11:10:50,851 INFO  stepdefinition.APITestingSampleStep - Delete response:{
+    "code": 200,
+    "type": "unknown",
+    "message": "60"
+}
+2025-12-28 11:10:50,860 INFO  util.AssertionUtil - Expected value:60 Actual value:60
+2025-12-28 11:14:35,209 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 11:14:35,225 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 11:14:35,227 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 11:14:37,629 INFO  stepdefinition.APITestingSampleStep - Get Response:{
+    "id": 5,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "string"
+}
+2025-12-28 11:14:38,018 INFO  util.AssertionUtil - Expected value:5 Actual value:5
+2025-12-28 11:14:38,027 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 11:14:38,027 INFO  services.PetService - POST Create Pet
+2025-12-28 11:14:39,629 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 11:14:39,632 INFO  stepdefinition.APITestingSampleStep - Post response:{
+    "id": 60,
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        
+    ],
+    "status": "available"
+}
+2025-12-28 11:14:39,640 INFO  util.AssertionUtil - Expected value:60 Actual value:60
+2025-12-28 11:14:39,649 INFO  util.AssertionUtil - Expected value:doggie Actual value:doggie
+2025-12-28 11:14:39,654 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 11:14:39,654 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 60
+2025-12-28 11:14:39,654 INFO  services.PetService - PUT Update Pet
+2025-12-28 11:14:41,169 INFO  stepdefinition.APITestingSampleStep - Put Response:{
+    "id": 60,
+    "name": "peggy",
+    "tags": [
+        
+    ]
+}
+2025-12-28 11:14:41,175 INFO  util.AssertionUtil - Expected value:peggy Actual value:peggy
+2025-12-28 11:14:41,179 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 11:14:41,180 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 11:14:41,180 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 11:14:42,698 INFO  stepdefinition.APITestingSampleStep - Delete response:{
+    "code": 200,
+    "type": "unknown",
+    "message": "60"
+}
+2025-12-28 11:14:42,708 INFO  util.AssertionUtil - Expected value:60 Actual value:60
+2025-12-28 17:48:38,129 INFO  stepdefinition.APITestingSampleStep - Get Request created
+2025-12-28 17:48:38,143 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-28 17:48:38,146 INFO  services.PetService - GET Pet by id: 5
+2025-12-28 17:48:40,916 INFO  stepdefinition.APITestingSampleStep - Get Response:{
+    "id": 5,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "string"
+}
+2025-12-28 17:48:41,341 INFO  util.AssertionUtil - Expected value:5 Actual value:5
+2025-12-28 17:48:41,349 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-28 17:48:41,349 INFO  services.PetService - POST Create Pet
+2025-12-28 17:48:43,029 INFO  stepdefinition.APITestingSampleStep - POST request executed successfully
+2025-12-28 17:48:43,033 INFO  stepdefinition.APITestingSampleStep - Post response:{
+    "id": 60,
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        
+    ],
+    "status": "available"
+}
+2025-12-28 17:48:43,048 INFO  util.AssertionUtil - Expected value:60 Actual value:60
+2025-12-28 17:48:43,056 INFO  util.AssertionUtil - Expected value:doggie Actual value:doggie
+2025-12-28 17:48:43,062 INFO  stepdefinition.APITestingSampleStep - creating put request
+2025-12-28 17:48:43,063 INFO  stepdefinition.APITestingSampleStep - Preparing PUT request to update pet with id: 60
+2025-12-28 17:48:43,063 INFO  services.PetService - PUT Update Pet
+2025-12-28 17:48:44,544 INFO  stepdefinition.APITestingSampleStep - Put Response:{
+    "id": 60,
+    "name": "peggy",
+    "tags": [
+        
+    ]
+}
+2025-12-28 17:48:44,553 INFO  util.AssertionUtil - Expected value:peggy Actual value:peggy
+2025-12-28 17:48:44,558 INFO  stepdefinition.APITestingSampleStep - Delete request headers set successfully
+2025-12-28 17:48:44,559 INFO  stepdefinition.APITestingSampleStep - Executing DELETE request for pet id: 60
+2025-12-28 17:48:44,559 INFO  services.PetService - DELETE Pet id: 60
+2025-12-28 17:48:46,085 INFO  stepdefinition.APITestingSampleStep - Delete response:{
+    "code": 200,
+    "type": "unknown",
+    "message": "60"
+}
+2025-12-28 17:48:46,113 INFO  util.AssertionUtil - Expected value:60 Actual value:60

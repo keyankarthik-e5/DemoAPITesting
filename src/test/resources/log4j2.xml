@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <Appenders>
+
+        <!-- Console Logger -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%d{HH:mm:ss} %-5level %c - %msg%n"/>
+        </Console>
+
+        <!-- Rolling File Logger -->
+        <RollingFile name="FileLogger"
+                     fileName="logs/api-test.log"
+                     filePattern="logs/api-test-%d{yyyy-MM-dd}.log">
+
+            <PatternLayout>
+                <Pattern>%d %-5level %c - %msg%n</Pattern>
+            </PatternLayout>
+
+            <!-- THIS IS MANDATORY -->
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1"/>
+            </Policies>
+
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+        </Root>
+    </Loggers>
+
+</Configuration>

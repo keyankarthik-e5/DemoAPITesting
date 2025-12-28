@@ -1,0 +1,16 @@
+{
+  "createPet": {
+    "id": 60,
+    "name": "doggie",
+    "status": "available",
+    "photoUrls": ["string"]
+  },
+  "updatePet": {
+    "id": 60,
+    "name": "peggy"
+  },
+  "getPet": {
+    "id": 5,
+    "statusCode": 200
+  }
+}

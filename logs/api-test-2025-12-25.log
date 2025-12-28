@@ -1,0 +1,10 @@
+2025-12-25 17:33:29,494 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-25 17:33:29,499 INFO  services.PetService - GET Pet by id: 5
+2025-12-25 18:08:42,233 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-25 18:08:42,238 INFO  services.PetService - GET Pet by id: 5
+2025-12-25 18:12:35,567 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-25 18:12:35,573 INFO  services.PetService - GET Pet by id: 5
+2025-12-25 18:30:12,460 INFO  stepdefinition.APITestingSampleStep - Executing GET pet request for petId: 5
+2025-12-25 18:30:12,466 INFO  services.PetService - GET Pet by id: 5
+2025-12-25 18:30:15,624 INFO  stepdefinition.APITestingSampleStep - Preparing POST request for pet creation with id: 60
+2025-12-25 18:30:15,628 INFO  services.PetService - POST Create Pet
